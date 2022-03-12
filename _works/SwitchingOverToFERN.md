@@ -12,4 +12,10 @@ Also, I didn't quite understand how HandmadeBlog (however good it was) actually 
 
 I actually put a bit of thought into how I'd like to build this out! 
 
+![A over simplified architecture](https://github.com/BurgundyIsAPublicEnemy/vikadilly_articles/blob/main/_images/oversimplification.png)
 
+I decoupled the content and the app. I did this so I could push content to the blog itself without worrying whether I had to redeploy to get it to show and it just meant I could keep the code lighter if all I had to do was get a String and shove it into a MarkDown formatter
+
+Yeah the website is heavier than original but if you feel super inclined, you can always go to the public repo and check it out there. Not to mention cause it's hosted on a public GitHub repo without the code, it means you can even check out entries in a Terminal! Neat. 
+
+So yeah, welcome to the new blog. There are issues of course, but let me know and I will do my best to fix ti
