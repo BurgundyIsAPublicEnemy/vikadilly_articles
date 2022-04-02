@@ -1,10 +1,3 @@
----
-id: 2
-title: "How I approach Self Directed Learning"
-subtitle: "About the Self Directed Learning bit"
-date: "2021.19.10"
-tags: "tag1, tag2"
----
 
 # Me and self learning
 I didn't realise I was a self directed learner until my third year at college. I met probably the hardest worker I'd ever met in my life, and after spending time with them, picked up their methods.
