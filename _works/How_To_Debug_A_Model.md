@@ -1,11 +1,3 @@
----
-id: 6
-title: "Debugging a ML model"
-subtitle: "When your model is so good, it just skips to the answer"
-date: "2022.01.14"
-tags: "AI, Modelling, Statistics"
----
-
 # Some context
 
 I've been doing the ORL/IA challenge for a few months and we've got a pretty cool model out. To make it sound fancy, we built a "we did a mutli-modal interpretable convolutional network based on siamese similarity pretraining model" aka we found a pretty cool model which did the job and trained it further.
