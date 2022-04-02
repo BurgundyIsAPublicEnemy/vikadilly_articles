@@ -1,10 +1,3 @@
----
-id: 5
-title: "Getting hit right now but we keep moving!"
-subtitle: ""
-date: "2021.20.11"
-tags: "tag1, tag2"
----
 
 # Life update: I am a bit tired atm!
 I have a terrible habit: I just don't know when to relax. I have a pretty hectic schedule as it is which I managed to put to work only through fine tuning time windows.
