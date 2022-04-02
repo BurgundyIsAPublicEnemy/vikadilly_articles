@@ -1,10 +1,3 @@
----
-id: 1
-title: "Java on Java
-subtitle: "My first day at work"
-date: "2021.14.10"
-tags: "tag1, tag2"
----
 
 I was fortunate enough to get hired straight out of university before the lockdown happened. So I started my post graduate work life never really having met any of my colleagues
 
