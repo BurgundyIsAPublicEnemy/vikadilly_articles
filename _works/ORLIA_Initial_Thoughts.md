@@ -1,11 +1,3 @@
----
-id: 4
-title: "ORL/IA and initial challenges"
-subtitle: "Data for the greater good!"
-date: "2021.19.10"
-tags: "tag1, tag2"
----
-
 # Challenging myself in the unfamiliar
 Cancer is awful. You didn't need a blog post to know that. I have been working in financial services for a while and I have always wanted to know: how can I use my skills and learnings to help make the world a better place? 
 
